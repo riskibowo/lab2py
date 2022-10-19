@@ -1,4 +1,5 @@
 # latihan 1
+
 ![Gambar](gambar/py1.png)
 ### Menjalankan python Console
 ### Menampilkan tulisan "hello" di layar 
@@ -10,7 +11,7 @@
 ### Mendefinisikan variable b dengan nilai 6
 ### Mencetak nilai variable a dan b
 ### Mencetak hasil penjumlahan a+b
-![Gambar](gambar/pyA.png)
+![Gambar](gambar/py3.png)
 # Latihan 2
 ![Gambar](gambar/py2.2.png)
 # Latihan 3
