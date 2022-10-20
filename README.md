@@ -25,9 +25,8 @@
 ### Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 # Latihan 3
 
-![Gambar](gambar/py3.2.png)
-
-# Latihan 3
-
 ![Gambar](gambar/py3.1.png)
+
 # Latihan 3
+
+![Gambar](gambar/py.png)
