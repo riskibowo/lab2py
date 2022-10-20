@@ -29,4 +29,4 @@
 
 # Latihan 3
 
-![Gambar](gambar/py.png)
+![Gambar](gambar/py3.2.png)
