@@ -12,7 +12,7 @@
 ### Mencetak nilai variable a dan b
 ### Mencetak hasil penjumlahan a+b
 
-![Gambar](gambar/py1.2.png)
+![Gambar](gambar/py1,2.png)
 
 # Latihan 2
 
