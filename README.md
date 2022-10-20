@@ -11,16 +11,25 @@
 ### Mendefinisikan variable b dengan nilai 6
 ### Mencetak nilai variable a dan b
 ### Mencetak hasil penjumlahan a+b
+
 ![Gambar](gambar/py3.png)
+
 # Latihan 2
+
 ![Gambar](gambar/py2.2.png)
+
 # Latihan 3
+
 ![Gambar](gambar/py3.1.png)
+
 ### Menjalankan IDLE
 ### Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 ### Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 # Latihan 3
+
 ![Gambar](gambar/py3.2.png)
+
 # Latihan 3
+
 ![Gambar](gambar/py3.1.png)
 # Latihan 3
