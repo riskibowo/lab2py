@@ -16,7 +16,7 @@
 
 # Latihan 2
 
-![Gambar](gambar/py2.2.png)
+![Gambar](gambar/py2.png)
 
 # Latihan 3
 
